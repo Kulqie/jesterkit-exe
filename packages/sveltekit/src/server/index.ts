@@ -131,4 +131,4 @@ const server = Bun.serve({
 	},
 });
 
-console.log(`đź’ż Listening on http://localhost:${server.port}`);
+console.log(`💿 Listening on http://localhost:${server.port}`);
